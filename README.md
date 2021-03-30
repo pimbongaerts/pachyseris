@@ -41,4 +41,4 @@
 
 ### Additional resources
 
-[Fieldwork Photos](media/) - Several photos of the associated fieldwork (TO BE COMPLETED)
+[Fieldwork Photos](media/) - Several photos of the fieldwork associated with this study.

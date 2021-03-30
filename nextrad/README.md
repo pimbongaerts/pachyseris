@@ -1,7 +1,5 @@
 # "Morphological stasis masks ecologically distinct coral species on tropical reefs"
 
-TO BE COMPLETED: VCF files will be uploaded after review (to the `datafiles` folder).
-
 ## B - Reduced-representation sequencing (nextRAD)
 
 Throughout the notebook there are references to the following environmental variables:
