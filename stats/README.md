@@ -1,4 +1,4 @@
-# "Morphological stasis masks ecologically distinct coral species on tropical reefs"
+# "Morphological stasis masks ecologically divergent coral species on tropical reefs"
 
 ## F - Statistical analyses
 
