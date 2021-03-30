@@ -2,20 +2,22 @@
 
 Several photographs from the fieldwork associated with this study (photo credits in the filenames).
 
-![Norbert collecting from large Pachyseris colony - (C) Pim Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Norbert collecting from large Pachyseris colony - (C) Pim Bongaerts.jpg)
+![Kyra_collecting_large_Pachyseris_colony_-_(C)_Pim_Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Kyra_collecting_large_Pachyseris_colony_-_(C)_Pim_Bongaerts.jpg)
 
-![Pim and Norbert deploying ROV in Australia (C) The Ocean Agency : XL Catlin Seaview Survey : Richard Vevers](/Users/pbongaerts/Github/pachyseris/media/Pim and Norbert deploying ROV in Australia (C) The Ocean Agency : XL Catlin Seaview Survey : Richard Vevers.jpg)
+![Norbert_and_Kyra_on_collection_dive_-_(C)_Pim_Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Norbert_and_Kyra_on_collection_dive_-_(C)_Pim_Bongaerts.jpg)
 
-![Upper mesophotic (40m) habitat dominated by plating corals - (C) Pim Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Upper mesophotic (40m) habitat dominated by plating corals - (C) Pim Bongaerts.JPG)
+![Norbert_collecting_from_large_Pachyseris_colony_-_(C)_Pim_Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Norbert_collecting_from_large_Pachyseris_colony_-_(C)_Pim_Bongaerts.jpg)
 
-![Pachyseris colony - (C) Paul Muir](/Users/pbongaerts/Github/pachyseris/media/Pachyseris colony - (C) Paul Muir.jpg
+![Pachyseris_colony_-_(C)_Paul_Muir](/Users/pbongaerts/Github/pachyseris/media/Pachyseris_colony_-_(C)_Paul_Muir.jpg)
 
-![Pim and Norbert on collection dive 1- (C) David Whillas](/Users/pbongaerts/Github/pachyseris/media/Pim and Norbert on collection dive 1- (C) David Whillas.JPG)
+![Pim_and_Norbert_deploying_ROV_in_Australia_(C)_The_Ocean_Agency_-_XL_Catlin_Seaview_Survey_-_Richard_Vevers](/Users/pbongaerts/Github/pachyseris/media/Pim_and_Norbert_deploying_ROV_in_Australia_(C)_The_Ocean_Agency_-_XL_Catlin_Seaview_Survey_-_Richard_Vevers.jpg)
 
-![Pim and Norbert on collection dive 2 - (C) David Whillas](/Users/pbongaerts/Github/pachyseris/media/Pim and Norbert on collection dive 2 - (C) David Whillas.JPG)
+![Pim_and_Norbert_on_collection_dive_1-_(C)_David_Whillas](/Users/pbongaerts/Github/pachyseris/media/Pim_and_Norbert_on_collection_dive_1-_(C)_David_Whillas.JPG)
 
-![Pim Bongaerts collecting Pachyseris with ROV - (C) Norbert Englebert](/Users/pbongaerts/Github/pachyseris/media/Pim Bongaerts collecting Pachyseris with ROV - (C) Norbert Englebert.JPG)
+![Pim_and_Norbert_on_collection_dive_2_-_(C)_David_Whillas](/Users/pbongaerts/Github/pachyseris/media/Pim_and_Norbert_on_collection_dive_2_-_(C)_David_Whillas.JPG)
 
-![Silvertip on collection dive - (C) Pim Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Kyra collecting large Pachyseris colony - (C) Pim Bongaerts.jpg)
+![Pim_Bongaerts_collecting_Pachyseris_with_ROV_-_(C)_Norbert_Englebert](/Users/pbongaerts/Github/pachyseris/media/Pim_Bongaerts_collecting_Pachyseris_with_ROV_-_(C)_Norbert_Englebert.JPG)
 
-![Norbert and Kyra on collection dive - (C) Pim Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Pachyseris colony - (C) Paul Muir.jpg)
+![Silvertip_on_collection_dive_-_(C)_Pim_Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Silvertip_on_collection_dive_-_(C)_Pim_Bongaerts.jpg)
+
+![Upper_mesophotic_(40m)_habitat_dominated_by_plating_corals_-_(C)_Pim_Bongaerts](/Users/pbongaerts/Github/pachyseris/media/Upper_mesophotic_(40m)_habitat_dominated_by_plating_corals_-_(C)_Pim_Bongaerts.JPG)
