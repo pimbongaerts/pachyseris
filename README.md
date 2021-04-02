@@ -1,5 +1,5 @@
 # "Morphological stasis masks ecologically divergent coral species on tropical reefs"
-*Preprint reference:* Bongaerts P, Cooke I, Ying H, Wels D, Haan den S, Hernandez-Agreda, Brunner C, Dove S, Englebert N, Eyal G, Forêt S, Grinblat M, Hay KB, Harii S, Hayward DC, Lin Y, Mihaljević M, Moya A, Muir P, Sinniger F, Smallhorn-West P, Torda G, Ragan MA, van Oppen MJH, Hoegh-Guldberg O (2020) Morphological stasis masks ecologically distinct coral species on tropical reefs. Biorxiv 2020/260208
+Bongaerts P, Cooke I, Ying H, Wels D, Haan den S, Hernandez-Agreda, Brunner C, Dove S, Englebert N, Eyal G, Forêt S, Grinblat M, Hay KB, Harii S, Hayward DC, Lin Y, Mihaljević M, Moya A, Muir P, Sinniger F, Smallhorn-West P, Torda G, Ragan MA, van Oppen MJH, Hoegh-Guldberg O (2021) [Morphological stasis masks ecologically divergent coral species on tropical reefs](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00367-5). *Current Biology* https://doi.org/10.1016/j.cub.2021.03.028
 
 ![Norbert_collecting_from_large_Pachyseris_colony_-_Pim_Bongaerts](media/Norbert_collecting_from_large_Pachyseris_colony_-_Pim_Bongaerts.jpg)
 
@@ -42,3 +42,4 @@
 ### Additional resources
 
 [Fieldwork Photos](media/) - Several photos of the fieldwork associated with this study.
+
